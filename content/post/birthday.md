@@ -8,4 +8,4 @@ draft: false
 
 # Hey!
 
-I love you dude! I hope you have an awesome day
+I love you dude! I hope you have an awesome day!
