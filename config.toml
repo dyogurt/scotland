@@ -1,5 +1,5 @@
 baseURL = "https://dyogurt.github.io/scotland/"
 languageCode = "en-us"
 title = "→ Scotland"
-theme = "journal"
+theme = "hugo-journal"
 publishDir = "docs"
