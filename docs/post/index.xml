@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on → Scotland</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on → Scotland</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jul 2020 08:47:11 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Happy B-Day!</title>
+      <link>http://example.org/post/birthday/</link>
+      <pubDate>Mon, 20 Jul 2020 08:47:11 +0100</pubDate>
+      
+      <guid>http://example.org/post/birthday/</guid>
+      <description>Hey! I love you dude! I hope you have an awesome day</description>
+    </item>
+    
+    <item>
+      <title>Right to Roam</title>
+      <link>http://example.org/post/right-to-roam/</link>
+      <pubDate>Sun, 19 Jul 2020 08:47:11 +0100</pubDate>
+      
+      <guid>http://example.org/post/right-to-roam/</guid>
+      <description>The freedom to roam, or &amp;ldquo;everyman&amp;rsquo;s right&amp;rdquo;, is the general public&amp;rsquo;s right to access certain public or privately owned land, lakes, and rivers for recreation and exercise. The right is sometimes called the right of public access to the wilderness or the &amp;ldquo;right to roam&amp;rdquo;.
+In Scotland In Scotland the Land Reform (Scotland) Act 2003 comprehensively codified into Scots law the ancient tradition of the right to universal access to the land in Scotland.</description>
+    </item>
+    
+    <item>
+      <title>The Lazy Duck Cabin</title>
+      <link>http://example.org/post/lazy_duck/</link>
+      <pubDate>Fri, 17 Jul 2020 10:47:11 +0100</pubDate>
+      
+      <guid>http://example.org/post/lazy_duck/</guid>
+      <description>A nice cozy cabin in the Cairngorms National Park. To some degree, you take care of your own food! Herbs, eggs, fish&amp;hellip;
+It can be an escape from stressful times and a way to get used to homesteading ♥</description>
+    </item>
+    
+  </channel>
+</rss>
