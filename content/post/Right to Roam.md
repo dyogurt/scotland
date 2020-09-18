@@ -14,9 +14,9 @@ In Scotland the Land Reform (Scotland) Act 2003 comprehensively codified into Sc
 
 ![Kinder Scouts Mass Trespass Group](https://99percentinvisible.org/app/uploads/2018/06/PROD-21-4-2017-TrespassWalkingGroup1932-913.jpg)
 
-I recommend [this](https://99percentinvisible.org/episode/right-to-roam/) podcast about the history of how Roaming became possible. They talk about Scotland starting at 22:10
+I recommend [this](https://99percentinvisible.org/episode/right-to-roam/) podcast about the history of how Roaming became possible. They talk about Scotland at 22:10
 
-When 99% Invisible producer Katie Mingle’s father Jim Mingle retired, he began walking–a lot. He’d always been a walker, but with more time, he took up long-distance, multi-day trips. And even though he’s an American, he mostly preferred to walk in the UK. In fact, over the course of a decade, he walked the entire length of Great Britain.
+> When 99% Invisible producer Katie Mingle’s father Jim Mingle retired, he began walking–a lot. He’d always been a walker, but with more time, he took up long-distance, multi-day trips. And even though he’s an American, he mostly preferred to walk in the UK. In fact, over the course of a decade, he walked the entire length of Great Britain.
 
 ### Bothies
 
@@ -27,7 +27,7 @@ When 99% Invisible producer Katie Mingle’s father Jim Mingle retired, he began
 
 ---
 
-#### Resources
+### Resources
 
 [Documento](https://shepwedd.com/sites/default/files/The%20right%20to%20roam%20rights%20and%20responsibilities.pdf) com os teus direitos e deveres como "Rambler" :)
 
