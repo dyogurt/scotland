@@ -8,6 +8,6 @@ Not far from you there is a delicate glass dome that covers another world in moi
 
 ![A lush greenhouse under a glass dome](https://www.visitscotland.com/blog/wp-content/uploads/2015/03/KibblePalace.jpg)
 
-Inside you can find plant from all over the world, outside, Botanical Gardens and River Kelvin.
+Inside you can find plants from all over the world, outside, Botanical Gardens and the River Kelvin.
 
-Maybe Charon will be nearby and let you cross :)
+Maybe Charon will be nearby and help you cross it :)
