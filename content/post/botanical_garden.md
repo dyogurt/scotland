@@ -6,7 +6,7 @@ draft: false
 
 Not far from you there is a delicate glass dome that covers another world in moist air and soft sunshine—[The Kibble Palace](https://www.glasgowbotanicgardens.com/the-gardens/history/kibble-palace/).
 
-![](/Users/diogo/Documents/repositories/scotland/content/img/Screen Shot 2020-12-22 at 7.06.31 PM.png)
+![A lush greenhouse under a glass dome](https://www.visitscotland.com/blog/wp-content/uploads/2015/03/KibblePalace.jpg)
 
 Inside you can find plant from all over the world, outside, Botanical Gardens and River Kelvin.
 
